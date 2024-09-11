@@ -148,7 +148,7 @@ window.addEventListener("scroll", (e) => {
 
         let speedList = [speedTitle, speedTag];
 
-    if (speedTop < (height - 700)) {
+    if (speedTop < (height - 500)) {
         document.body.classList.add("body-color");
         header.style.background = "transparent";
         header.style.transition = "250ms ease";
