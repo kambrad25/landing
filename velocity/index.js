@@ -134,6 +134,9 @@ let
                 }
             }
         } else {
+            
+        document.querySelector(".scale-wrapper).style.position = "sticky";
+        
         let _x1_350 = -30; 
         let _x2_350 = 20;
 
