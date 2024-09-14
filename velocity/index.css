@@ -112,9 +112,7 @@ input:focus
     font-size: 1.3rem;
     gap: .2rem;
 }
-.nav-logo-header {
-    text-shadow: 2px 0 2px black;
-}
+
 
 .nav-logo-img 
 {
