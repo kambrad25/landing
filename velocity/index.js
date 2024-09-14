@@ -130,10 +130,12 @@ let
 
         } else {
 
-            document.querySelector(".scale-wrapper").style.position = "sticky";
-            document.querySelector(".scale-wrapper").style.top = "0rem";
+        document.querySelector(".scale-wrapper").style.position = "sticky";
+        document.querySelector(".scale-wrapper").style.top = "0rem";
 
-            document.querySelector(".scale").style.minHeight = "250rem";
+        document.querySelector(".scale").style.minHeight = "250rem";
+        
+        cHeaderTwo.style.fontSize = "9rem";
 
 
         let _x1_350 = -30; 
